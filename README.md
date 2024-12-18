@@ -1,5 +1,5 @@
 # Overview of KAG-prompt
-<img src="./images/KAG-prompt.png" alt="Overview of KAG-prompt" width="500" height="300" />
+<img src="./images/KAG-prompt.png" alt="Overview of KAG-prompt" style="width: 40%; min-width: 300px; display: block; margin: auto;" />
 # How to Run
 ## Environment installation
 Install the required packages:
