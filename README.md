@@ -1,5 +1,5 @@
 # Overview of KAG-prompt
-![Overview of KAG-prompt](./images/KAG-prompt.png)
+<img src="./images/KAG-prompt.png" alt="Overview of KAG-prompt" width="500" height="300" />
 # How to Run
 ## Environment installation
 Install the required packages:
