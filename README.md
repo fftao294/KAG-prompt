@@ -24,7 +24,6 @@ pyhton test_mvtec.py
 
 ## Train your KAG-prompt
 ```bash
-cd /KAG-prompt/code
 bash ./scripts/train_mvtec.sh
 bash ./scripts/train_visa.sh
 ```
